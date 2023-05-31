@@ -3,7 +3,8 @@
 ## Ана Терзиева, бр.на индекс 213070
 
 ### Control Flow Graph
-![CFG](https://github.com/anaterzieva7/SI_2023_lab2_213070/assets/119891494/9dd1dbb5-0852-4103-a23f-55476959987f)
+![CFG.png](CFG.png)
+
 
 
 

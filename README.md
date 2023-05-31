@@ -3,7 +3,8 @@
 ## Ана Терзиева, бр.на индекс 213070
 
 ### Control Flow Graph
-![CFG](https://github.com/anaterzieva7/SI_2023_lab2_213070/assets/119891494/1a909c4a-e5da-4111-86c4-75476ea8b49f)
+![CFG](https://github.com/anaterzieva7/SI_2023_lab2_213070/assets/119891494/9dd1dbb5-0852-4103-a23f-55476959987f)
+
 
 
 ### Цикломатска комплексност
